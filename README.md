@@ -1,5 +1,6 @@
 ## Sparse tree-based clustering of microbiome data
-R and Matlab code to implement the methods in "Sparse tree-based clustering of microbiome data to characterize microbiome heterogeneity in pancreatic cancer" by Yushu Shi, Liangliang Zhang, Kim-Anh Do, Robert Jenq and Christine B. Peterson
+R and Matlab code to implement the methods in:
+- Shi Y, Zhang L, Do K, Jenq RR, Peterson CB. (2022+) Sparse tree-based clustering of microbiome data to characterize microbiome heterogeneity in pancreatic cancer. *Journal of the Royal Statistical Society: Series C*
 
 ### Authors
 Yushu Shi (shiyushu2006@gmail.com)
@@ -48,9 +49,9 @@ The mixture of finite mixture of Dirichlet multinomial (MFMDM) model without tre
 
 #### Acknowledgements
 
-The code provided here is associated with the following publication/webpage:
+The code provided here is associated with the following publication and webpage:
 
-- Yushu Shi, Liangliang Zhang, Kim-Anh Do, Robert Jenq and Christine B. Peterson (2022). Sparse tree-based clustering of microbiome data to characterize microbiome heterogeneity in pancreatic cancer. 
+- Shi Y, Zhang L, Do K, Jenq RR, Peterson CB. (2022+) Sparse tree-based clustering of microbiome data to characterize microbiome heterogeneity in pancreatic cancer. *Journal of Royal Statistical Society: Series C*
 
 - Code for generating samples from Dirichlet distribution [https://searchcode.com/codesearch/view/2391565/](https://searchcode.com/codesearch/view/2391565/)
 
